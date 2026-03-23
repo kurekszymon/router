@@ -35,7 +35,7 @@ TanStack Router supports both file-based and code-based route configurations. Yo
 
 The file-based approach is the recommended option for most projects. It automatically creates routes based on your file structure, giving you the best mix of performance, simplicity, and developer experience.
 
-For more details, see the [file-based routing documentation](https://tanstack.com/router/latest/docs/routing/file-based-routing) or
+For more details, see the [file-based routing documentation](./routing/file-based-routing.md) or
 
 <!-- ::start:framework -->
 
@@ -53,7 +53,7 @@ For more details, see the [file-based routing documentation](https://tanstack.co
 
 If you prefer to define routes programmatically, you can use the code-based route configuration. This approach gives you full control over routing logic.
 
-For more details, see the [code-based routing documentation](https://tanstack.com/router/latest/docs/routing/code-based-routing) or
+For more details, see the [code-based routing documentation](./routing/code-based-routing.md) or
 
 <!-- ::start:framework -->
 
