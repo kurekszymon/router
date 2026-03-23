@@ -35,9 +35,37 @@ TanStack Router supports both file-based and code-based route configurations. Yo
 
 The file-based approach is the recommended option for most projects. It automatically creates routes based on your file structure, giving you the best mix of performance, simplicity, and developer experience.
 
+For more details, see the [file-based routing documentation](https://tanstack.com/router/latest/docs/routing/file-based-routing) or
+
+<!-- ::start:framework -->
+
+# React
+
+[explore the live example](https://tanstack.com/router/latest/docs/framework/react/examples/basic-file-based)
+
+# Solid
+
+[explore the live example](https://tanstack.com/router/latest/docs/framework/solid/examples/basic-file-based)
+
+<!-- ::end:framework -->
+
 ### Code-Based Route Configuration
 
 If you prefer to define routes programmatically, you can use the code-based route configuration. This approach gives you full control over routing logic.
+
+For more details, see the [code-based routing documentation](https://tanstack.com/router/latest/docs/routing/code-based-routing) or
+
+<!-- ::start:framework -->
+
+# React
+
+[explore the live example](https://tanstack.com/router/latest/docs/framework/react/examples/basic)
+
+# Solid
+
+[explore the live example](https://tanstack.com/router/latest/docs/framework/solid/examples/basic)
+
+<!-- ::end:framework -->
 
 With either approach, navigate to your project directory and start the development server.
 
